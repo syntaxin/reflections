@@ -10,4 +10,11 @@ It lets me control the level and size of that commit in a larger directory
 it helps me when I'm working on multiple tasks to narrow my commits
 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+when working in multiple tasks, I can choose which files to update
+I can use it to stage multiple commits each with its own set of files
+
+
+
 
