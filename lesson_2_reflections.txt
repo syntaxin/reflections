@@ -35,3 +35,8 @@ What is the result of merging two branches together? Why do we represent it in t
 Combines all changes and creates a new single head for both
 Takes parallel changes that are independent chains and consolidates into a single branch again
 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Time and effort tradeoff
+Resolving conflicting changes that are challenging to merge
