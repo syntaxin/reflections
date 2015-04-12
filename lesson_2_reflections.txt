@@ -22,3 +22,10 @@ New devs
 Experiments
 Multiple parallel tasks/people working
 Re-architecture
+
+
+How do the diagrams help you visualize the branch structure?
+
+helps understand the evolution of each brandh and what's contained
+helps understand where there's detached heads
+helps organize more complex projects
