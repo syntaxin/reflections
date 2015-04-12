@@ -1,0 +1,43 @@
+How does diff help
+
+Diff helps find mistakes that may be leading to bugs
+Diff is a quick way to check your incremental work
+Diff is a fast mechanism for sifting through larger files
+
+How could having access to history make me more efficient
+
+It allows me to trace back through changes
+I can use history to get back to the last working version
+I won't accidentally lose stuff
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Pro:
+Fits to my needs
+Can control the right size of change
+Only I know if it's commit worthy
+
+Cons:
+I can forget
+I can lose alot by not doing it
+I might make a big change very hard to merge in
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Depends on the use case.  Coding requires simultaneous changes across files whereas docs are a one and done use case
+
+How can you use the commands git log and git diff to view the history of files?
+
+log to help me find a summary of the different changes
+diff to help me look at those changes in detail
+
+
+How might using version control make you more confident to make changes that could break something?
+
+I always know I can work my way back and try again
+
+How Do You Want to Use Git?
+
+To keep tracking my changes as I do harder projects
+To act as my core repository
