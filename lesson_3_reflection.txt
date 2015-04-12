@@ -36,3 +36,12 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I'd be able to have multiple people working on a project and we can work on different things at the same time. 
 Harder would be keeping us all in sync in terms of what the correct version of the code is
 Harder would be managing the changes as someone has to deal with PRs and Merge Conflicts
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I'm building a new or experimental feature
+When I want others to contribute simultaneously to the same project
+When I'm not sure I want to keep what I think I'm going to change
+As a best practice
+
+Branches can slow you down and keep code management trickier and more time intensive
