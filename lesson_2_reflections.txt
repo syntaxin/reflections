@@ -29,3 +29,9 @@ How do the diagrams help you visualize the branch structure?
 helps understand the evolution of each brandh and what's contained
 helps understand where there's detached heads
 helps organize more complex projects
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Combines all changes and creates a new single head for both
+Takes parallel changes that are independent chains and consolidates into a single branch again
+
