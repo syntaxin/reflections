@@ -30,3 +30,9 @@ knowing what changes have been made
 knowing how to reverse out my state
 knowing how the remote has been updated
 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I'd be able to have multiple people working on a project and we can work on different things at the same time. 
+Harder would be keeping us all in sync in terms of what the correct version of the code is
+Harder would be managing the changes as someone has to deal with PRs and Merge Conflicts
