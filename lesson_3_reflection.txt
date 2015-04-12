@@ -22,3 +22,11 @@ Branches are specific variations of the source
 Forks to create a new large project that is intended to take to original in a new direction
 Clone to get different copies onto my space for creating changes
 Branches to represent the changes on my clone
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+knowing what changes have been made
+knowing how to reverse out my state
+knowing how the remote has been updated
+
