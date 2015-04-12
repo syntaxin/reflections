@@ -12,3 +12,13 @@ Why might you want to always pull changes manually rather than having Git automa
 There could be multiple changes happening to the origin
 I may have multiple changes happening on my local
 I may not want new changes yet as it could conflict with what I'm trying to do
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks create a new origin code base for people to collaborate on
+Clones are copies of an origin that could be in multiple states of difference
+Branches are specific variations of the source
+
+Forks to create a new large project that is intended to take to original in a new direction
+Clone to get different copies onto my space for creating changes
+Branches to represent the changes on my clone
